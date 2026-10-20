@@ -1,0 +1,13 @@
+## SafeWalk Android — Local Environment Configuration Template
+## Copy this file to 'local.properties' in the project root.
+## DO NOT check 'local.properties' into version control.
+
+# Location of the Android SDK on your local machine.
+# Windows example: sdk.dir=C\:\\Users\\<Username>\\AppData\\Local\\Android\\Sdk
+# macOS example:   sdk.dir=/Users/<Username>/Library/Android/sdk
+# Linux example:   sdk.dir=/home/<Username>/Android/Sdk
+sdk.dir=D\:\\Android\\sdk
+
+# MapTiler Cloud API Key used for MapLibre Native vector maps.
+# Sign up at https://cloud.maptiler.com/ to obtain a free or development API key.
+MAPTILER_API_KEY=YOUR_MAPTILER_API_KEY_HERE
