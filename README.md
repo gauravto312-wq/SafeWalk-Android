@@ -13,7 +13,7 @@ SafeWalk is a native Android personal safety application designed to bridge the 
 ### 📦 Quick Access & Download
 * **Latest Release:** [SafeWalk v1.0.0 Release Notes](https://github.com/gauravto312-wq/SafeWalk-Android/releases/tag/v1.0.0)
 * **Direct APK Download:** [📥 Download SafeWalk-v1.0.0.apk](https://github.com/gauravto312-wq/SafeWalk-Android/releases/download/v1.0.0/SafeWalk-v1.0.0.apk)
-* **GitHub Repository:** [SafeWalk-Android on GitHub](https://github.com/gauravto312-wq/SafeWalk-Android)
+
 
 ---
 
