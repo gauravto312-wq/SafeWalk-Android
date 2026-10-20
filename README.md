@@ -404,7 +404,7 @@ The SafeWalk ecosystem consists of modular client and server repositories:
 * ⚙️ **Spring Boot Backend Service:**  
   [https://github.com/gauravto312-wq/safewalk-backend](https://github.com/gauravto312-wq/safewalk-backend)
 * 💻 **Web Dispatcher & Management Portal:**  
-  `[https://github.com/gauravto312-wq/safewalk-frontend]`
+  [https://github.com/gauravto312-wq/safewalk-frontend](https://github.com/gauravto312-wq/safewalk-frontend)
 
 ---
 
